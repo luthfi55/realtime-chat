@@ -1,9 +1,9 @@
 package config
 
 const (
-	DBHost     = "containers-us-west-202.railway.app"
-	DBPort     = 8059
+	DBHost     = "containers-us-west-154.railway.app"
+	DBPort     = 7421
 	DBUser     = "postgres"
-	DBPassword = "GixqhKdOM4sko62tKK5H"
+	DBPassword = "1CJtQ32d3JHCPInaxIlq"
 	DBName     = "railway"
 )
