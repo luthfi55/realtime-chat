@@ -1,9 +1,9 @@
 package config
 
 const (
-	DBHost     = "localhost"
-	DBPort     = 5432
+	DBHost     = "containers-us-west-202.railway.app"
+	DBPort     = 8059
 	DBUser     = "postgres"
-	DBPassword = "050502"
-	DBName     = "realtime-chat"
+	DBPassword = "GixqhKdOM4sko62tKK5H"
+	DBName     = "railway"
 )
